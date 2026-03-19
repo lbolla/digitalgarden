@@ -4,4 +4,4 @@
 
 This is the home note.
 
-This is a link to [[tornado-redis-chat\|tornado-redis-chat]].
+This is a link to [[tornado-redis-chat\|Tornado Redis chat]].
