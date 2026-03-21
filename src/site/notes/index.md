@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Lorenzo Bolla","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","title":"Lorenzo Bolla","tags":["gardenEntry"],"dgShowBacklinks":"false","dgShowLocalGraph":"false"}
 ---
 
 
