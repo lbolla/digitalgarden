@@ -7,7 +7,7 @@
 
 *More detailed CV available [[Curriculum Vitæ\|here]].
 
-# [Experience]{.underline}
+# Experience
 
 ## [Google](https://www.google.com), SRE, Zurich CH, Mar 2022 -- now
 

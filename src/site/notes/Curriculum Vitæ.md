@@ -7,7 +7,7 @@
 
 *Less detailed CV available [here](https://lbolla.info/cv-short).*
 
-# [Profile]{.underline}
+# Profile
 
 I am an experienced Software Engineer with a background in research Physics.
 
@@ -25,7 +25,7 @@ Logical thinker, able to provide effective solutions to solve difficult problems
 
 Great team-player & fun attitude, competent time manager, very dependable under pressure and passionately dedicated to the task. Experienced remote worker.
 
-# [Experience]{.underline}
+# Experience
 
 ## [Google](https://www.google.com), SRE, Zurich CH, Mar 2022 -- now
 
@@ -75,7 +75,7 @@ R&D on numerical algorithms applied to the solution of electromagnetic problems.
 
 Technical assistance in the virtual reconstruction of Mantegna\'s paintings in the Ovetari\'s Chapel, Padua Italy. Basics of image analysis and manipulation.
 
-# [Education]{.underline}
+# Education
 
 ## University of Udine - Italy, PhD, Nov 2002 -- Nov 2005
 
@@ -91,7 +91,7 @@ Research in Optical integrated circuits, photonic crystal planar waveguides and 
 
 ## University of Padova - Italy, Telecommunication Engineering, Sep 1996 - Mar 2002
 
-# [Publications]{.underline}
+# Publications
 
 ## Books
 
