@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/500-on-youtube-on-non-existing-videos/","title":"500 on YouTube on non-existing videos","created":"2011-12-17"}
+{"dg-publish":true,"permalink":"/500-on-youtube-on-non-existing-videos/","created":"2011-12-17"}
 ---
 
 
