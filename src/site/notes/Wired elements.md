@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wired-elements/","contentClasses":"gloria-font","tags":["javascript"],"created":"2024-06-04"}
+{"dg-publish":true,"permalink":"/wired-elements/","contentClasses":"gloria-hallelujah-regular","tags":["javascript"],"created":"2024-06-04"}
 ---
 
 
