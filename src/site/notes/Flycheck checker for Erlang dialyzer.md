@@ -13,4 +13,6 @@ I prefer to use it *after* the normal Erlang checker, so I define the following,
 (flycheck-add-next-checker 'erlang 'erlang-dialyzer)
 ```
 
+I also wrote another [[Flycheck checker for Flow\|Flycheck checker]] if you are interested.
+
 Enjoy!

@@ -15,4 +15,6 @@ I prefer to use Flow *after* [gjslint](https://developers.google.com/closure/uti
 (flycheck-add-next-checker 'javascript-gjslint 'javascript-flow)
 ```
 
+I also wrote another [[Flycheck checker for Erlang dialyzer\|Flycheck checker]] if you are interested.
+
 Enjoy!
