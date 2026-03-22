@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Lorenzo Bolla","tags":["gardenEntry"],"dgShowBacklinks":"false","dgShowLocalGraph":"false"}
+{"dg-publish":true,"permalink":"/index/","title":"Lorenzo Bolla","tags":["rust","erlang","haskell","gardenEntry"],"dgShowBacklinks":"false","dgShowLocalGraph":"false"}
 ---
 
 

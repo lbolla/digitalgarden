@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/milano-by-night/","created":"2006-05-17"}
+---
+
+
+![Garibaldi train station](http://static.flickr.com/49/147814800_a0631a4e8f_b.jpg)
+
+After all, I may have found some interesting use of Milan\'s chaotic traffic!

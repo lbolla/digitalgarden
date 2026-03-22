@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/haskell-and-vim/","tags":["programming"],"created":"2011-10-15"}
+{"dg-publish":true,"permalink":"/haskell-and-vim/","tags":["programming","haskell"],"created":"2011-10-15"}
 ---
 
 

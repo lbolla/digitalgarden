@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/flycheck-checker-for-flow/","tags":["programming","emacs","lisp"],"created":"2014-11-19"}
+{"dg-publish":true,"permalink":"/flycheck-checker-for-flow/","tags":["programming","emacs","lisp","erlang"],"created":"2014-11-19"}
 ---
 
 
