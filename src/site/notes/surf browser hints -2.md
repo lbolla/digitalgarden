@@ -3,7 +3,7 @@
 ---
 
 
-Following [yesterday\'s post](./surf-browser-hints.org), here is another useful hint about surf\'s usage.
+Following [[surf browser hints\|yesterday\'s post]], here is another useful hint about surf\'s usage.
 
 The following script lists the available bookmarks (from `~/.bookmarks` file) and let\'s you pick one using `dmenu`. If a new link is inserted, it is added to the list of known bookmarks, so you won\'t need to type it in full the next time:
 

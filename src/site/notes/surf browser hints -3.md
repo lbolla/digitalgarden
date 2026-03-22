@@ -3,7 +3,7 @@
 ---
 
 
-Another couple of hints about [`surf`](http://surf.suckless.org), after [my previous post](./surf-browser-hints-2/.org).
+Another couple of hints about [`surf`](http://surf.suckless.org), after [[surf browser hints -2\|my previous post]].
 
 Honestly, I stopped using [`surf`](http://surf.suckless.org) after 0.3 release. I think that the authors stripped out of the code too much sugar that, not being suckless, was nonetheless useful: a status bar showing the current URI, for example. Now URI editing is done via `xprop` and [`dmenu`](http://tools.suckless.org/dmenu), which is great piece of software, but not always user friendly (it does not have editing capabilities).
 
