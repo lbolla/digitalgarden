@@ -5,7 +5,7 @@
 
 After a long sleep, I resumed development on [[EMpy\|EMpy]]. The trigger was an appeal from Guido van Rossum at PyCon 2015 to package authors to support Python 3.
 
-There are no new features to EMpy, but I have:
+There are no new features to [[EMpy\|EMpy]], but I have:
 
 -   ported the code to Python 3, using the amazing [future](http://python-future.org/) library: now, both Python 2 and 3 are supported;
 -   setup [Travis CI](https://travis-ci.org/lbolla/EMpy) to run unittest on all supported Python versions;
