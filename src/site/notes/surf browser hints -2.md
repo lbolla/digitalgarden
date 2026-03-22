@@ -7,7 +7,7 @@ Following [[surf browser hints\|yesterday\'s post]], here is another useful hint
 
 The following script lists the available bookmarks (from `~/.bookmarks` file) and let\'s you pick one using `dmenu`. If a new link is inserted, it is added to the list of known bookmarks, so you won\'t need to type it in full the next time:
 
-``` {.bash org-language="sh"}
+``` shell
 #!/bin/sh
 bookmarks=~/.bookmarks
 link=`cat $bookmarks | dmenu ${1+"$@"}` || exit 0
@@ -20,6 +20,6 @@ surf -u $link
 
 If you don\'t want to open a new window, just change the last line to set the `_SURF_URL` X Property of the surf window you want to use (by clicking on it):
 
-``` {.bash org-language="sh"}
+``` shell
 xprop -f _SURF_URL 8t -set _SURF_URL $link `
 ```

@@ -15,7 +15,7 @@ There are no new features to EMpy, but I have:
 
 You can try it out by simply:
 
-``` {.bash org-language="sh"}
+``` shell
 $> pip install ElectroMagneticPython
 ```
 

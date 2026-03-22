@@ -13,7 +13,7 @@ The most interesting part of these script is the modification to `BeautifulSoup`
 
 For example:
 
-``` {.bash org-language="sh"}
+``` shell
 % echo '<a><b>text text</b><c>more text</c></a>' | htmlind
 <a>
     <b>

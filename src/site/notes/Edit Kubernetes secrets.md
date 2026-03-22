@@ -11,12 +11,12 @@ There are various ways to deal with it, but none is user-friendly, in my opinion
 
 It\'s used as alternative editor when invoking `kubectl edit`, like this:
 
-``` {.bash org-language="sh"}
+``` shell
 $> KUBE_EDITOR=/path/to/kube-secret-editor.py kubectl edit secret
 ```
 
 For simplicity, I have a shell alias, like:
 
-``` {.bash org-language="sh"}
+``` shell
 alias kedit-secret="KUBE_EDITOR=kube-secret-editor kubectl edit secret"
 ```

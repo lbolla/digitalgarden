@@ -28,7 +28,7 @@ Nonetheless, the results were very interesting. First of all, here is the code.
 <script src="https://gist.github.com/3567006.js?file=yesod.hs"></script>
 And the results, obtained using httperf:
 
-``` {.bash org-language="sh"}
+``` shell
 $> httperf --hog --client=0/1 --server=localhost --port=8080 --uri=/ --rate=1000 --send-buffer=4096 --recv-buffer=16384 --num-conns=100 --num-calls=100 --burst-length=20
 ```
 

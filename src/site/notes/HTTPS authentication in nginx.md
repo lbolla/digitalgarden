@@ -7,7 +7,7 @@ In order not to forget again how to setup [http authentication](http://en.wikipe
 
 For `HTTPS` follow [these steps](http://dracoblue.net/dev/https-nginx-with-self-signed-ssl-certificate/188/):
 
-``` {.bash org-language="sh"}
+``` shell
 $ sudo -s
 # cd /etc/nginx
 # openssl req -new -x509 -nodes -out server.crt -keyout server.key
@@ -38,7 +38,7 @@ location / {
 
 Finally, to generate `/etc/nginx/htpasswd`, use this one-liner:
 
-``` {.bash org-language="sh"}
+``` shell
 echo -e "your-username:`perl -le 'print crypt("your-password","salt")'`" > /etc/nginx/htpasswd
 ```
 

@@ -32,7 +32,7 @@ Another hint is to create a script to feed `surf` with your favorite bookmarks.
 
 Here it is:
 
-``` {.bash org-language="sh"}
+``` shell
 #!/bin/sh
 exe="surf -u `cat ~/.bookmarks | dmenu ${1+"$@"}`" && exec $exe
 ```

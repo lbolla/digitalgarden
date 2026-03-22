@@ -28,7 +28,7 @@ The code is trivial: it uses [`sed`](http://swtch.com/plan9port/man/man1/sed.htm
 
 ### a+
 
-``` {.bash org-language="sh"}
+``` shell
 # !/usr/bin/env rc  
 
 sed 's/^/ /'  
@@ -36,7 +36,7 @@ sed 's/^/ /'
 
 ### a-
 
-``` {.bash org-language="sh"}
+``` shell
 # !/usr/bin/env rc  
 
 sed 's/^ //'  

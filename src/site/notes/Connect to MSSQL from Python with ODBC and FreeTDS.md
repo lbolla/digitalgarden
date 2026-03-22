@@ -7,7 +7,7 @@ This is another of those posts that I wrote because I always forget how to do th
 
 This time, I don\'t want to forget how to connect from Python to MSSQL server anymore. In order to do it, you need the following system packages installed:
 
-``` {.bash org-language="sh"}
+``` shell
 $> sudo apt-get install unixodbc-dev tdsodbc sqsh
 ```
 
@@ -15,7 +15,7 @@ $> sudo apt-get install unixodbc-dev tdsodbc sqsh
 
 Then install `pyodbc` using `pip` or whatever else you like:
 
-``` {.bash org-language="sh"}
+``` shell
 $> pip install pyodbc
 ```
 

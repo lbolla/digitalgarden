@@ -119,7 +119,7 @@ func init() {
 
 Launch the application using the SDK; from go-count-urls directory type:
 
-``` {.bash org-language="sh"}
+``` shell
 $> $GAE_PATH/dev_appserver.py . 
 ```
 
@@ -129,7 +129,7 @@ Now visit <http://localhost:8080/hello>. Refresh. Refresh again. And again...
 
 Publishing the application on Google infrastructure is a matter of seconds:
 
-``` {.bash org-language="sh"}
+``` shell
 $> $GAE_PATH/appcfg.py update . 
 ```
 

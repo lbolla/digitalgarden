@@ -22,7 +22,7 @@ for row in csv.DictReader(sys.stdin):
 
 Output looks like this:
 
-``` {.bash org-language="sh"}
+``` shell
 % echo 'a,b,c
 1,2,3
 4,5,6
@@ -45,7 +45,7 @@ print(getText(dom))
 
 For example:
 
-``` {.bash org-language="sh"}
+``` shell
 % echo '<a>a text<b>b text</b>more a text</a>' | xmlfmt
 a textb textmore a text
 ```
@@ -64,7 +64,7 @@ pprint.pprint(json.load(sys.stdin))
 
 Try it out:
 
-``` {.bash org-language="sh"}
+``` shell
 $> curl 'http://search.twitter.com/search.json?q=lorenzo' | jsonfmt
 {u'completed_in': 0.035,
  u'max_id': 267982040698351617L,

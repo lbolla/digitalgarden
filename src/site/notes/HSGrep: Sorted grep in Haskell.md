@@ -11,7 +11,7 @@ Thanks a lot for [all your useful suggestions](http://codereview.stackexchange.c
 
 After downloading the [source code](https://github.com/lbolla/HSGrep), build install and run it with:
 
-``` {.bash org-language="sh"}
+``` shell
 $> cabal build
 $> cabal install
 $> hsgrep <string> <filename>

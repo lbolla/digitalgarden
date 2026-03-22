@@ -5,13 +5,13 @@
 
 Today, while playing with [st](http://st.suckless.org), I tried a very simple benchmark. Here it is:
 
-``` {.bash org-language="sh"}
+``` shell
 $> time seq -f 'teeeeeeeeeeeeeeeeeeeeeeeeeeeeeest %g' 999999
 ```
 
 Here are the results:
 
-``` {.bash org-language="sh"}
+``` shell
 xterm: 0m28.508s
 rxvt: 0m8.568s
 st: 0m12.082s

@@ -19,7 +19,7 @@ Here is the code:
 
 ### c+
 
-``` {.bash org-language="sh"}
+``` shell
 #!/usr/bin/env rc
 
 sed 's/^/#/'
@@ -27,7 +27,7 @@ sed 's/^/#/'
 
 ### c-
 
-``` {.bash org-language="sh"}
+``` shell
 #!/usr/bin/env rc
 
 sed 's/^#//'

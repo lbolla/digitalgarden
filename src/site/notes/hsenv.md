@@ -9,7 +9,7 @@ You can find a [tweaked version of hsenv here](https://github.com/lbolla/hsenv):
 
 Finally, if when using you hit this error:
 
-``` {.bash org-language="sh"}
+``` shell
 $ hsenv Creating Virtual Haskell directory structure
 Installing GHC Initializing GHC Package database at /home/lollo/work/Unique/.hsenv/ghc_pkg_db
 Copying necessary packages from original GHC package database

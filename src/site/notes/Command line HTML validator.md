@@ -7,7 +7,7 @@ Valid HTML is something we should strive to achieve. [W3C Validator](http://vali
 
 [Here](https://raw.github.com/lbolla/junk/master/utils/w3c_validate.py) you can find a [command line HTML validator](https://raw.github.com/lbolla/junk/master/utils/w3c_validate.py) that simply uploads anything passed to it from `stdin` to the [W3C Validator](http://validator.w3.org/). The basic syntax is:
 
-``` {.bash org-language="sh"}
+``` shell
 $> python validate.py < file_to_validate.html
 ```
 

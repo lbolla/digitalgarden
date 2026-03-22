@@ -5,7 +5,7 @@
 
 `vim` + Python + [`pylint`](http://www.logilab.org/857) is a powerful combination, especially when using this [`vim` plugin](http://www.vim.org/scripts/script.php?script_id=891). Unfortunately, the script stopped working after a `pylint` upgrade:
 
-``` {.bash org-language="sh"}
+``` shell
 $ pylint --version
 pylint 0.24.0,
 astng 0.22.0, common 0.56.0
