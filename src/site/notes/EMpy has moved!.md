@@ -3,4 +3,4 @@
 ---
 
 
-EMpy has [moved to Github](http://lbolla.github.com/EMpy/)!
+[[EMpy\|EMpy]] has [moved to Github](http://lbolla.github.com/EMpy/)!

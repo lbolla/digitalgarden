@@ -3,7 +3,7 @@
 ---
 
 
-After a long sleep, I resumed development on [EMpy](http://lbolla.github.io/EMpy/). The trigger was an appeal from Guido van Rossum at PyCon 2015 to package authors to support Python 3.
+After a long sleep, I resumed development on [[EMpy\|EMpy]]. The trigger was an appeal from Guido van Rossum at PyCon 2015 to package authors to support Python 3.
 
 There are no new features to EMpy, but I have:
 
