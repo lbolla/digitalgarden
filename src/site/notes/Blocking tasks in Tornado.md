@@ -93,6 +93,4 @@ Note that the decorated function must be itself be decorated with `tornado.web.a
 
 Full code is below, available on [gist](https://gist.github.com/4594879).
 
-```{=html}
-#+HTML: <script src="https://gist.github.com/4594879.js"></script>
-```
+<script src="https://gist.github.com/4594879.js"></script>
