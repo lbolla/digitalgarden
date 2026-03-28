@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/curriculum-vitae/","tags":["rust","erlang","haskell"]}
+{"dg-publish":true,"permalink":"/curriculum-vitae/"}
 ---
 
 

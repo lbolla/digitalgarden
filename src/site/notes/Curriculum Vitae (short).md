@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/curriculum-vitae-short/","tags":["rust"]}
+{"dg-publish":true,"permalink":"/curriculum-vitae-short/"}
 ---
 
 
