@@ -3,9 +3,9 @@
 ---
 
 
-After having [tinkered with Haskell for quite a bit](file:///tags/haskell), I decided that I needed some rest from theory and esoteric concepts, and a more pragmatic programming language to explore.
+After having tinkered with #haskell  for quite a bit, I decided that I needed some rest from theory and esoteric concepts, and a more pragmatic programming language to explore.
 
-I\'ve spent the last few days refreshing my memories on [Go](http://golang.org/): I hadn\'t touched it for almost 2 years and I must say that I find it changed: for the better.
+I\'ve spent the last few days refreshing my memories on [Go](http://golang.org/): I hadn't touched it for almost 2 years and I must say that I find it changed: for the better.
 
 Here is a short tutorial on how to write a simple web application in Go, and publish it on [Google App Engine](https://developers.google.com/appengine/). The application is not a mere exercise, but scratches an itch I recently had: it counts how many times each of its handlers is hit. So, for example, visiting: <http://go-count-urls.appspot.com/hello> returns how many times the `/hello` handler has been visited. You can use it as a trivial real-time tracker.
 
