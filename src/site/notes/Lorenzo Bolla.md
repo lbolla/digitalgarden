@@ -22,7 +22,7 @@ views:
     sort:
       - property: date
         direction: DESC
-    limit: 10
+    limit: 5
 
 ```
 
