@@ -5,7 +5,9 @@
 
 Hi! I'm Lorenzo Bolla, [[Curriculum Vitae\|Software Developer]] in Zűrich, CH.
 
-When I'm not programming in [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/en-US/), [Erlang](https://www.erlang.org/), [Go](https://golang.org/), [Haskell](https://www.haskell.org/) or [Java](http://openjdk.java.net/) I am playing either basketball, piano or chess.
+When I'm not #programming, I am either #reading or playing #basketball.
+
+[[Curriculum Vitae\|Curriculum Vitae]]
 
 ## Latest notes
 | File                                              | Published      | Tags                                |
@@ -17,21 +19,3 @@ When I'm not programming in [Python](https://www.python.org/), [Rust](https://ww
 | [[Netlify\|Netlify]]                           | March 28, 2026 |                                     |
 
 { .block-language-dataview}
-## Latest notes
-```base
-filters:
-  and:
-    - file.folder != "Templates"
-views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - date
-      - file.tags
-    sort:
-      - property: date
-        direction: DESC
-    limit: 5
-
-```
