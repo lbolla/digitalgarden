@@ -1,0 +1,23 @@
+---
+{"dg-publish":true,"permalink":"/the-shelf/","created":"2026-03-29"}
+---
+
+
+```base
+filters:
+  and:
+    - file.folder == "Books"
+views:
+  - type: cards
+    name: Cards
+    order:
+      - file.name
+      - author
+      - tags
+      - date
+    sort:
+      - property: date
+        direction: ASC
+    image: note.image
+    imageFit: contain
+```
