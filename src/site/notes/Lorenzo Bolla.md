@@ -7,7 +7,8 @@ Hi! I'm Lorenzo Bolla, [[Curriculum Vitae\|Software Developer]] in Zűrich, CH.
 
 When I'm not #programming, I am either #reading or playing #basketball.
 
-[[Curriculum Vitae\|Curriculum Vitae]]
+- [[Curriculum Vitae\|Curriculum Vitae]] 
+- [[The Shelf\|The Shelf]]
 
 ## Latest notes
 | File                                              | Published      | Tags                                |

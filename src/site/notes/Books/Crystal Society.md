@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/books/crystal-society/","tags":["AI"],"created":"2026-03-28","dg-note-properties":{"date":"2026-03-28","author":"Max Harms","year":"2016","tags":["AI"],"image":"https://crystalbooks.ai/society/cover800.png","url":"https://crystalbooks.ai/"}}
 ---
 
+
+[[The Shelf\|The Shelf]]
+| File                                          | author    | year |
+| --------------------------------------------- | --------- | ---- |
+| [[Books/Crystal Society\|Crystal Society]] | Max Harms | 2016 |
+
+{ .block-language-dataview}
 # Why
 I heard about Max Harms on the [80000 hours podcast](https://80000hours.org/podcast/episodes/max-harms-miri-superintelligence-corrigibility/), talking about AI alignment.
 # What I liked

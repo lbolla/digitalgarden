@@ -3,6 +3,12 @@
 ---
 
 
+[[The Shelf\|The Shelf]]
+| File                                              | author    | year |
+| ------------------------------------------------- | --------- | ---- |
+| [[Books/Crystal Mentality\|Crystal Mentality]] | Max Harms | 2017 |
+
+{ .block-language-dataview}
 # Why
 Second volume of The Crystal trilogy. First book is [[Books/Crystal Society\|Crystal Society]].
 # What I liked

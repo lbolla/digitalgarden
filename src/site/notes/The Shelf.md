@@ -17,7 +17,8 @@ views:
       - date
     sort:
       - property: date
-        direction: ASC
+        direction: DESC
     image: image
     imageFit: contain
+
 ```
