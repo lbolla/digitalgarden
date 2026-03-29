@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-digital-garden-issue-with-bases/","hide":true,"dgEnableSearch":"false","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/obsidian-digital-garden-issue-with-bases/","hide":true,"hideInGraph":true,"dgEnableSearch":"false","dg-note-properties":{}}
 ---
 
 
 ## Issues
+Reported to https://github.com/oleeskild/obsidian-digital-garden/issues/766
 - Sorting by "date" doesn't seem to work
 - "Tags" are simple text, not clickable links
+- Hidden notes still appear in the exported Base
 ## Example
 Base query:
 ```
