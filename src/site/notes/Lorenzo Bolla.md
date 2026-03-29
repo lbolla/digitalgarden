@@ -14,7 +14,7 @@ filters:
     - file.folder != "Templates"
 views:
   - type: table
-    name: View
+    name: Table
     order:
       - file.name
       - date
@@ -22,12 +22,7 @@ views:
     sort:
       - property: date
         direction: DESC
-      - property: file.name
-        direction: ASC
     limit: 10
-    columnSize:
-      file.name: 409
-      note.date: 148
 
 ```
 
