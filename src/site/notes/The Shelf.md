@@ -18,6 +18,6 @@ views:
     sort:
       - property: date
         direction: ASC
-    image: note.image
+    image: image
     imageFit: contain
 ```
