@@ -20,7 +20,7 @@ views:
       - date
       - tags
     sort:
-      - property: note.date
+      - property: date
         direction: DESC
     limit: 5
 
@@ -40,7 +40,7 @@ views:
     sort:
       - property: date
         direction: ASC
-    image: note.image
+    image: image
     imageFit: contain
 
 ```
