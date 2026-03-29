@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mi-vr-mi/","tags":["programming"],"created":"2006-05-14"}
+{"dg-publish":true,"permalink":"/mi-vr-mi/","tags":["programming"],"created":"2006-05-14","dg-note-properties":{"date":"2006-05-14","tags":["programming"]}}
 ---
 
 

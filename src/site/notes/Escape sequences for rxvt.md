@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/escape-sequences-for-rxvt/","tags":["linux"],"created":"2009-05-01"}
+{"dg-publish":true,"permalink":"/escape-sequences-for-rxvt/","tags":["linux"],"created":"2009-05-01","dg-note-properties":{"date":"2009-05-01","tags":["linux"]}}
 ---
 
 

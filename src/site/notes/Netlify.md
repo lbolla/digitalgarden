@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/netlify/","created":"2026-03-28"}
+{"dg-publish":true,"permalink":"/netlify/","created":"2026-03-28","dg-note-properties":{"date":"2026-03-28"}}
 ---
 
 I recently moved [lbolla.info](https://lbolla.info) to [[Digital Garden\|Digital Garden]]. The notes are now published and deployed on [Netlify](https;//app.netlify.com). Here are some notes about the whole setup.

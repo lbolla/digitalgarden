@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/javascript-templating-benchmark/","tags":["programming","javascript"],"created":"2011-05-23"}
+{"dg-publish":true,"permalink":"/javascript-templating-benchmark/","tags":["programming","javascript"],"created":"2011-05-23","dg-note-properties":{"date":"2011-05-23","tags":["programming","javascript"]}}
 ---
 
 

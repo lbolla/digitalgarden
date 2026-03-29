@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tornado-vs-warp-vs-yesod/","tags":["programming","python","javascript","haskell"],"created":"2012-09-02"}
+{"dg-publish":true,"permalink":"/tornado-vs-warp-vs-yesod/","tags":["programming","python","javascript","haskell"],"created":"2012-09-02","dg-note-properties":{"date":"2012-09-02","tags":["programming","python","javascript","haskell"]}}
 ---
 
 

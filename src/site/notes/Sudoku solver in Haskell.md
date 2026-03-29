@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sudoku-solver-in-haskell/","tags":["programming","javascript","haskell"],"created":"2012-02-27"}
+{"dg-publish":true,"permalink":"/sudoku-solver-in-haskell/","tags":["programming","javascript","haskell"],"created":"2012-02-27","dg-note-properties":{"date":"2012-02-27","tags":["programming","javascript","haskell"]}}
 ---
 
 

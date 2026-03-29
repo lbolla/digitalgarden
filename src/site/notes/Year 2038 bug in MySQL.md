@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/year-2038-bug-in-my-sql/","tags":["programming"],"created":"2011-03-04"}
+{"dg-publish":true,"permalink":"/year-2038-bug-in-my-sql/","tags":["programming"],"created":"2011-03-04","dg-note-properties":{"date":"2011-03-04","tags":["programming"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pylint-vim/","tags":["programming","python"],"created":"2011-08-25"}
+{"dg-publish":true,"permalink":"/pylint-vim/","tags":["programming","python"],"created":"2011-08-25","dg-note-properties":{"date":"2011-08-25","tags":["programming","python"]}}
 ---
 
 

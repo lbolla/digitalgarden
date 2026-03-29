@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/autoreferenza/","tags":["italiano"],"created":"2007-04-08"}
+{"dg-publish":true,"permalink":"/autoreferenza/","tags":["italiano"],"created":"2007-04-08","dg-note-properties":{"date":"2007-04-08","tags":["italiano"]}}
 ---
 
 

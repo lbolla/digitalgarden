@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-and-vim/","tags":["python"],"created":"2008-04-22"}
+{"dg-publish":true,"permalink":"/python-and-vim/","tags":["python"],"created":"2008-04-22","dg-note-properties":{"date":"2008-04-22","tags":["python"]}}
 ---
 
 

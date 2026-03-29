@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/edit-kubernetes-secrets/","tags":["programming","python"],"created":"2018-01-14"}
+{"dg-publish":true,"permalink":"/edit-kubernetes-secrets/","tags":["programming","python"],"created":"2018-01-14","dg-note-properties":{"date":"2018-01-14","tags":["programming","python"]}}
 ---
 
 

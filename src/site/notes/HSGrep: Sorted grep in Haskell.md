@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hs-grep-sorted-grep-in-haskell/","tags":["programming","haskell"],"created":"2011-11-27"}
+{"dg-publish":true,"permalink":"/hs-grep-sorted-grep-in-haskell/","tags":["programming","haskell"],"created":"2011-11-27","dg-note-properties":{"date":"2011-11-27","tags":["programming","haskell"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/qwerty-vs-dvorak-vs-colemak-to-edit-python-code/","tags":["programming","python"],"created":"2009-02-02"}
+{"dg-publish":true,"permalink":"/qwerty-vs-dvorak-vs-colemak-to-edit-python-code/","tags":["programming","python"],"created":"2009-02-02","dg-note-properties":{"date":"2009-02-02","tags":["programming","python"]}}
 ---
 
 

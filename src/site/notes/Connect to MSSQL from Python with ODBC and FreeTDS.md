@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/connect-to-mssql-from-python-with-odbc-and-free-tds/","tags":["programming","python","javascript"],"created":"2013-08-29"}
+{"dg-publish":true,"permalink":"/connect-to-mssql-from-python-with-odbc-and-free-tds/","tags":["programming","python","javascript"],"created":"2013-08-29","dg-note-properties":{"date":"2013-08-29","tags":["programming","python","javascript"]}}
 ---
 
 

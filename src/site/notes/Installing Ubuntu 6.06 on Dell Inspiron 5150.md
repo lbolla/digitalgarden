@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/installing-ubuntu-6-06-on-dell-inspiron-5150/","tags":["go"],"created":"2006-06-05"}
+{"dg-publish":true,"permalink":"/installing-ubuntu-6-06-on-dell-inspiron-5150/","tags":["go"],"created":"2006-06-05","dg-note-properties":{"date":"2006-06-05","tags":["go"]}}
 ---
 
 

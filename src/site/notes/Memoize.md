@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/memoize/","tags":["programming","python"],"created":"2008-04-17"}
+{"dg-publish":true,"permalink":"/memoize/","tags":["programming","python"],"created":"2008-04-17","dg-note-properties":{"date":"2008-04-17","tags":["programming","python"]}}
 ---
 
 

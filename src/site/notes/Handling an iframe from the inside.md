@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/handling-an-iframe-from-the-inside/","tags":["programming","javascript"],"created":"2011-03-30"}
+{"dg-publish":true,"permalink":"/handling-an-iframe-from-the-inside/","tags":["programming","javascript"],"created":"2011-03-30","dg-note-properties":{"date":"2011-03-30","tags":["programming","javascript"]}}
 ---
 
 

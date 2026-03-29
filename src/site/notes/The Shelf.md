@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-shelf/","created":"2026-03-29"}
+{"dg-publish":true,"permalink":"/the-shelf/","created":"2026-03-29","dg-note-properties":{"date":"2026-03-29"}}
 ---
 
 

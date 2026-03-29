@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sbcl-quicker-than-c/","tags":["programming"],"created":"2010-12-05"}
+{"dg-publish":true,"permalink":"/sbcl-quicker-than-c/","tags":["programming"],"created":"2010-12-05","dg-note-properties":{"date":"2010-12-05","tags":["programming"]}}
 ---
 
 

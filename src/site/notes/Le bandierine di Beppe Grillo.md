@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/le-bandierine-di-beppe-grillo/","tags":["italiano"],"created":"2007-09-13"}
+{"dg-publish":true,"permalink":"/le-bandierine-di-beppe-grillo/","tags":["italiano"],"created":"2007-09-13","dg-note-properties":{"date":"2007-09-13","tags":["italiano"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tab-completion-in-python-shell/","tags":["programming","python"],"created":"2008-06-25"}
+{"dg-publish":true,"permalink":"/tab-completion-in-python-shell/","tags":["programming","python"],"created":"2008-06-25","dg-note-properties":{"date":"2008-06-25","tags":["programming","python"]}}
 ---
 
 

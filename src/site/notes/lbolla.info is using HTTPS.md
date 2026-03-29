@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lbolla-info-is-using-https/","created":"2015-12-04"}
+{"dg-publish":true,"permalink":"/lbolla-info-is-using-https/","created":"2015-12-04","dg-note-properties":{"date":"2015-12-04","tags":null}}
 ---
 
 

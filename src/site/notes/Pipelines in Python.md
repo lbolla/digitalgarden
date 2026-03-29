@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pipelines-in-python/","tags":["programming","python","javascript"],"created":"2012-04-20"}
+{"dg-publish":true,"permalink":"/pipelines-in-python/","tags":["programming","python","javascript"],"created":"2012-04-20","dg-note-properties":{"date":"2012-04-20","tags":["programming","python","javascript"]}}
 ---
 
 

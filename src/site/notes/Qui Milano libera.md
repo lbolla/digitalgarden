@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/qui-milano-libera/","tags":["italiano"],"created":"2007-07-19"}
+{"dg-publish":true,"permalink":"/qui-milano-libera/","tags":["italiano"],"created":"2007-07-19","dg-note-properties":{"date":"2007-07-19","tags":["italiano"]}}
 ---
 
 

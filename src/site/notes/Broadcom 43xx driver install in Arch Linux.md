@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/broadcom-43xx-driver-install-in-arch-linux/","tags":["linux"],"created":"2012-07-31"}
+{"dg-publish":true,"permalink":"/broadcom-43xx-driver-install-in-arch-linux/","tags":["linux"],"created":"2012-07-31","dg-note-properties":{"date":"2012-07-31","tags":["linux"]}}
 ---
 
 

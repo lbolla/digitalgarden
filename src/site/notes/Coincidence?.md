@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coincidence/","created":"2006-04-11"}
+{"dg-publish":true,"permalink":"/coincidence/","created":"2006-04-11","dg-note-properties":{"date":"2006-04-11"}}
 ---
 
 

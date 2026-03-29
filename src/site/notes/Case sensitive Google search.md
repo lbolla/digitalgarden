@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/case-sensitive-google-search/","created":"2011-04-13"}
+{"dg-publish":true,"permalink":"/case-sensitive-google-search/","created":"2011-04-13","dg-note-properties":{"date":"2011-04-13"}}
 ---
 
 

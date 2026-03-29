@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wordpress-to-markdown/","tags":["programming","python"],"created":"2012-11-12"}
+{"dg-publish":true,"permalink":"/wordpress-to-markdown/","tags":["programming","python"],"created":"2012-11-12","dg-note-properties":{"date":"2012-11-12","tags":["programming","python"]}}
 ---
 
 

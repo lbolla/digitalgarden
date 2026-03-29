@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/boundary-value-problem/","created":"2008-04-14"}
+{"dg-publish":true,"permalink":"/boundary-value-problem/","created":"2008-04-14","dg-note-properties":{"date":"2008-04-14"}}
 ---
 
 

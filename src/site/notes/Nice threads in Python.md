@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nice-threads-in-python/","tags":["programming","python","javascript"],"created":"2020-02-01 Sat"}
+{"dg-publish":true,"permalink":"/nice-threads-in-python/","tags":["programming","python","javascript"],"created":"2020-02-01 Sat","dg-note-properties":{"date":"2020-02-01 Sat","tags":["programming","python","javascript"]}}
 ---
 
 

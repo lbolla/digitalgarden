@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/get-registered-domain-in-python-and-javascript/","tags":["programming","python","javascript"],"created":"2011-04-05"}
+{"dg-publish":true,"permalink":"/get-registered-domain-in-python-and-javascript/","tags":["programming","python","javascript"],"created":"2011-04-05","dg-note-properties":{"date":"2011-04-05","tags":["programming","python","javascript"]}}
 ---
 
 

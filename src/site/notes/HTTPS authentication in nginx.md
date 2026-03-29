@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/https-authentication-in-nginx/","tags":["programming"],"created":"2012-02-20"}
+{"dg-publish":true,"permalink":"/https-authentication-in-nginx/","tags":["programming"],"created":"2012-02-20","dg-note-properties":{"date":"2012-02-20","tags":["programming"]}}
 ---
 
 

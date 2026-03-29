@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trivial-terminal-speed-benchmark/","tags":["programming"],"created":"2010-04-29"}
+{"dg-publish":true,"permalink":"/trivial-terminal-speed-benchmark/","tags":["programming"],"created":"2010-04-29","dg-note-properties":{"date":"2010-04-29","tags":["programming"]}}
 ---
 
 

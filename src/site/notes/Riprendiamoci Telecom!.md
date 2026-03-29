@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/riprendiamoci-telecom/","tags":["italiano"],"created":"2007-04-07"}
+{"dg-publish":true,"permalink":"/riprendiamoci-telecom/","tags":["italiano"],"created":"2007-04-07","dg-note-properties":{"date":"2007-04-07","tags":["italiano"]}}
 ---
 
 

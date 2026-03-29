@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/useful-scripts-htmlind-and-xmlind/","tags":["programming","python"],"created":"2012-11-23"}
+{"dg-publish":true,"permalink":"/useful-scripts-htmlind-and-xmlind/","tags":["programming","python"],"created":"2012-11-23","dg-note-properties":{"date":"2012-11-23","tags":["programming","python"]}}
 ---
 
 

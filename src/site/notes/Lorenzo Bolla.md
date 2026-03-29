@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lorenzo-bolla/","hide":true,"tags":["gardenEntry"],"dgShowBacklinks":"false"}
+{"dg-publish":true,"permalink":"/lorenzo-bolla/","hide":true,"tags":["gardenEntry"],"dgShowBacklinks":"false","dg-note-properties":{}}
 ---
 
 

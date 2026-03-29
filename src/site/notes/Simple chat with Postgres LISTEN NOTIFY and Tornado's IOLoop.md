@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/simple-chat-with-postgres-listen-notify-and-tornado-s-io-loop/","tags":["programming","tornado"],"created":"2013-03-21"}
+{"dg-publish":true,"permalink":"/simple-chat-with-postgres-listen-notify-and-tornado-s-io-loop/","tags":["programming","tornado"],"created":"2013-03-21","dg-note-properties":{"date":"2013-03-21","tags":["programming","tornado"]}}
 ---
 
 

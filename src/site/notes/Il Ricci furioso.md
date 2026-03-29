@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/il-ricci-furioso/","tags":["italiano"],"created":"2010-07-30"}
+{"dg-publish":true,"permalink":"/il-ricci-furioso/","tags":["italiano"],"created":"2010-07-30","dg-note-properties":{"date":"2010-07-30","tags":["italiano"]}}
 ---
 
 

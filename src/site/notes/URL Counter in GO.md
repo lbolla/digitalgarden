@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/url-counter-in-go/","tags":["programming","go","haskell"],"created":"2012-10-10"}
+{"dg-publish":true,"permalink":"/url-counter-in-go/","tags":["programming","go","haskell"],"created":"2012-10-10","dg-note-properties":{"date":"2012-10-10","tags":["programming","go","haskell"]}}
 ---
 
 

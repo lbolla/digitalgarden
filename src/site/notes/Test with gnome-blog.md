@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test-with-gnome-blog/","tags":["programming"],"created":"2009-02-03"}
+{"dg-publish":true,"permalink":"/test-with-gnome-blog/","tags":["programming"],"created":"2009-02-03","dg-note-properties":{"date":"2009-02-03","tags":["programming"]}}
 ---
 
 

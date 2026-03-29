@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/simple-wordpress-api-lisp-client/","tags":["programming"],"created":"2010-08-04"}
+{"dg-publish":true,"permalink":"/simple-wordpress-api-lisp-client/","tags":["programming"],"created":"2010-08-04","dg-note-properties":{"date":"2010-08-04","tags":["programming"]}}
 ---
 
 

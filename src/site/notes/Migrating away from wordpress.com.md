@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/migrating-away-from-wordpress-com/","tags":["javascript"],"created":"2011-04-11"}
+{"dg-publish":true,"permalink":"/migrating-away-from-wordpress-com/","tags":["javascript"],"created":"2011-04-11","dg-note-properties":{"date":"2011-04-11","tags":["javascript"]}}
 ---
 
 

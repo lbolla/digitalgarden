@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/free-phone-calls-from-italy-to-uk/","created":"2007-11-22"}
+{"dg-publish":true,"permalink":"/free-phone-calls-from-italy-to-uk/","created":"2007-11-22","dg-note-properties":{"date":"2007-11-22"}}
 ---
 
 

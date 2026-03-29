@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aurora-88s/","created":"2006-10-14"}
+{"dg-publish":true,"permalink":"/aurora-88s/","created":"2006-10-14","dg-note-properties":{"date":"2006-10-14"}}
 ---
 
 

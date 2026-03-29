@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-for-fun/","created":"2006-05-19"}
+{"dg-publish":true,"permalink":"/ai-for-fun/","created":"2006-05-19","dg-note-properties":{"date":"2006-05-19"}}
 ---
 
 

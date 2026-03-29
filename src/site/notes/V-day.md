@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/v-day/","tags":["italiano"],"created":"2007-07-16"}
+{"dg-publish":true,"permalink":"/v-day/","tags":["italiano"],"created":"2007-07-16","dg-note-properties":{"date":"2007-07-16","tags":["italiano"]}}
 ---
 
 

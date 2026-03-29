@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/useful-scripts-csvfmt-xmlfmt-jsonfmt/","tags":["programming","python","javascript"],"created":"2012-11-16"}
+{"dg-publish":true,"permalink":"/useful-scripts-csvfmt-xmlfmt-jsonfmt/","tags":["programming","python","javascript"],"created":"2012-11-16","dg-note-properties":{"date":"2012-11-16","tags":["programming","python","javascript"]}}
 ---
 
 

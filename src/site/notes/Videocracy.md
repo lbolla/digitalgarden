@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videocracy/","created":"2009-08-28"}
+{"dg-publish":true,"permalink":"/videocracy/","created":"2009-08-28","dg-note-properties":{"date":"2009-08-28"}}
 ---
 
 

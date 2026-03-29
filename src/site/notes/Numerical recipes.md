@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/numerical-recipes/","created":"2008-06-11"}
+{"dg-publish":true,"permalink":"/numerical-recipes/","created":"2008-06-11","dg-note-properties":{"date":"2008-06-11","tags":null}}
 ---
 
 

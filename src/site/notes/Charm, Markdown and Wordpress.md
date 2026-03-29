@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/charm-markdown-and-wordpress/","created":"2010-04-28"}
+{"dg-publish":true,"permalink":"/charm-markdown-and-wordpress/","created":"2010-04-28","dg-note-properties":{"date":"2010-04-28"}}
 ---
 
 

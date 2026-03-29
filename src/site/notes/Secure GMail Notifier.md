@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/secure-g-mail-notifier/","created":"2007-10-15"}
+{"dg-publish":true,"permalink":"/secure-g-mail-notifier/","created":"2007-10-15","dg-note-properties":{"date":"2007-10-15"}}
 ---
 
 

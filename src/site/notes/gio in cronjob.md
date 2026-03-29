@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gio-in-cronjob/","tags":["programming"],"created":"2020-12-14 Mon"}
+{"dg-publish":true,"permalink":"/gio-in-cronjob/","tags":["programming"],"created":"2020-12-14 Mon","dg-note-properties":{"date":"2020-12-14 Mon","tags":["programming"]}}
 ---
 
 

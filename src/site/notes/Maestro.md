@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maestro/","tags":["programming"],"created":"2006-08-30"}
+{"dg-publish":true,"permalink":"/maestro/","tags":["programming"],"created":"2006-08-30","dg-note-properties":{"date":"2006-08-30","tags":["programming"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/overbooking-di-alitalia/","tags":["italiano"],"created":"2007-11-28"}
+{"dg-publish":true,"permalink":"/overbooking-di-alitalia/","tags":["italiano"],"created":"2007-11-28","dg-note-properties":{"date":"2007-11-28","tags":["italiano"]}}
 ---
 
 

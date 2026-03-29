@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/milano-by-night/","created":"2006-05-17"}
+{"dg-publish":true,"permalink":"/milano-by-night/","created":"2006-05-17","dg-note-properties":{"date":"2006-05-17","tags":null}}
 ---
 
 

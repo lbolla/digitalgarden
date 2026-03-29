@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tdaemon-for-python3/","tags":["python"],"created":"2011-02-20"}
+{"dg-publish":true,"permalink":"/tdaemon-for-python3/","tags":["python"],"created":"2011-02-20","dg-note-properties":{"date":"2011-02-20","tags":["python"]}}
 ---
 
 

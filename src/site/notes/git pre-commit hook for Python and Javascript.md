@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/git-pre-commit-hook-for-python-and-javascript/","tags":["programming","python","javascript"],"created":"2011-11-17"}
+{"dg-publish":true,"permalink":"/git-pre-commit-hook-for-python-and-javascript/","tags":["programming","python","javascript"],"created":"2011-11-17","dg-note-properties":{"date":"2011-11-17","tags":["programming","python","javascript"]}}
 ---
 
 

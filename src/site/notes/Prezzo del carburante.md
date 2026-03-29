@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prezzo-del-carburante/","tags":["italiano"],"created":"2007-10-04"}
+{"dg-publish":true,"permalink":"/prezzo-del-carburante/","tags":["italiano"],"created":"2007-10-04","dg-note-properties":{"date":"2007-10-04","tags":["italiano"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/impl-specialization-in-rust/","tags":["programming","rust"],"created":"2020-04-11"}
+{"dg-publish":true,"permalink":"/impl-specialization-in-rust/","tags":["programming","rust"],"created":"2020-04-11","dg-note-properties":{"date":"2020-04-11","tags":["programming","rust"]}}
 ---
 
 

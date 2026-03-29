@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fuck-rep/","tags":["italiano"],"created":"2018-06-11"}
+{"dg-publish":true,"permalink":"/fuck-rep/","tags":["italiano"],"created":"2018-06-11","dg-note-properties":{"date":"2018-06-11","tags":["italiano"]}}
 ---
 
 

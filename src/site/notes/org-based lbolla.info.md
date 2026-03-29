@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/org-based-lbolla-info/","tags":["programming"],"created":"2018-01-04"}
+{"dg-publish":true,"permalink":"/org-based-lbolla-info/","tags":["programming"],"created":"2018-01-04","dg-note-properties":{"date":"2018-01-04","tags":["programming"]}}
 ---
 
 

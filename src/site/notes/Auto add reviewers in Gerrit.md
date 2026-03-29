@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/auto-add-reviewers-in-gerrit/","created":"2012-08-01"}
+{"dg-publish":true,"permalink":"/auto-add-reviewers-in-gerrit/","created":"2012-08-01","dg-note-properties":{"date":"2012-08-01"}}
 ---
 
 

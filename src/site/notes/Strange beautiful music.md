@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/strange-beautiful-music/","created":"2006-04-07"}
+{"dg-publish":true,"permalink":"/strange-beautiful-music/","created":"2006-04-07","dg-note-properties":{"date":"2006-04-07","tags":null}}
 ---
 
 

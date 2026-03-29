@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/photopedia/","tags":["italiano","programming"],"created":"2007-12-24"}
+{"dg-publish":true,"permalink":"/photopedia/","tags":["italiano","programming"],"created":"2007-12-24","dg-note-properties":{"date":"2007-12-24","tags":["italiano","programming"]}}
 ---
 
 

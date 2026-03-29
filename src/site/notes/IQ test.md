@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/iq-test/","tags":["italiano","programming","python"],"created":"2008-02-02"}
+{"dg-publish":true,"permalink":"/iq-test/","tags":["italiano","programming","python"],"created":"2008-02-02","dg-note-properties":{"date":"2008-02-02","tags":["italiano","programming","python"]}}
 ---
 
 

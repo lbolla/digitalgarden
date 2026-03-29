@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/io-parcheggio-da-culo/","tags":["italiano"],"created":"2007-03-28"}
+{"dg-publish":true,"permalink":"/io-parcheggio-da-culo/","tags":["italiano"],"created":"2007-03-28","dg-note-properties":{"date":"2007-03-28","tags":["italiano"]}}
 ---
 
 

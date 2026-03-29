@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/google-docs/","tags":["programming"],"created":"2006-10-11"}
+{"dg-publish":true,"permalink":"/google-docs/","tags":["programming"],"created":"2006-10-11","dg-note-properties":{"date":"2006-10-11","tags":["programming"]}}
 ---
 
 

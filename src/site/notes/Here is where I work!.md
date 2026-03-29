@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/here-is-where-i-work/","created":"2006-06-27"}
+{"dg-publish":true,"permalink":"/here-is-where-i-work/","created":"2006-06-27","dg-note-properties":{"date":"2006-06-27"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/useful-scripts-c-c/","tags":["programming","python"],"created":"2012-11-09"}
+{"dg-publish":true,"permalink":"/useful-scripts-c-c/","tags":["programming","python"],"created":"2012-11-09","dg-note-properties":{"date":"2012-11-09","tags":["programming","python"]}}
 ---
 
 

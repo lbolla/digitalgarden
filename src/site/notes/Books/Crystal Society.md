@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/crystal-society/","tags":["AI"],"created":"2026-03-28"}
+{"dg-publish":true,"permalink":"/books/crystal-society/","tags":["AI"],"created":"2026-03-28","dg-note-properties":{"date":"2026-03-28","author":"Max Harms","year":"2016","tags":["AI"],"image":"https://crystalbooks.ai/society/cover800.png","url":"https://crystalbooks.ai/"}}
 ---
 
 # Why

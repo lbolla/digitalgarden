@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/this-is-another-weblog-client-test/","tags":["programming"],"created":"2009-02-01"}
+{"dg-publish":true,"permalink":"/this-is-another-weblog-client-test/","tags":["programming"],"created":"2009-02-01","dg-note-properties":{"date":"2009-02-01","tags":["programming"]}}
 ---
 
 

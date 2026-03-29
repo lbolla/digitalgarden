@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/python-and-c-with-ctypes/","tags":["programming","python","javascript"],"created":"2013-08-28"}
+{"dg-publish":true,"permalink":"/python-and-c-with-ctypes/","tags":["programming","python","javascript"],"created":"2013-08-28","dg-note-properties":{"date":"2013-08-28","tags":["programming","python","javascript"]}}
 ---
 
 

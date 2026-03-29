@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/e-mpy/","tags":["programming","python"],"created":"2007-09-27"}
+{"dg-publish":true,"permalink":"/e-mpy/","tags":["programming","python"],"created":"2007-09-27","dg-note-properties":{"date":"2007-09-27","tags":["programming","python"]}}
 ---
 
 

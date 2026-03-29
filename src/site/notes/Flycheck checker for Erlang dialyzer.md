@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/flycheck-checker-for-erlang-dialyzer/","tags":["programming","erlang","lisp","emacs"],"created":"2015-05-09"}
+{"dg-publish":true,"permalink":"/flycheck-checker-for-erlang-dialyzer/","tags":["programming","erlang","lisp","emacs"],"created":"2015-05-09","dg-note-properties":{"date":"2015-05-09","tags":["programming","erlang","lisp","emacs"]}}
 ---
 
 

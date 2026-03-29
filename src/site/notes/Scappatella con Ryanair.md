@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/scappatella-con-ryanair/","created":"2011-06-03"}
+{"dg-publish":true,"permalink":"/scappatella-con-ryanair/","created":"2011-06-03","dg-note-properties":{"date":"2011-06-03"}}
 ---
 
 

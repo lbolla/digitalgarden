@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hs-grep-benchmarking/","tags":["programming","haskell"],"created":"2011-11-30"}
+{"dg-publish":true,"permalink":"/hs-grep-benchmarking/","tags":["programming","haskell"],"created":"2011-11-30","dg-note-properties":{"date":"2011-11-30","tags":["programming","haskell"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/epytaph/","tags":["music"],"created":"2007-05-01"}
+{"dg-publish":true,"permalink":"/epytaph/","tags":["music"],"created":"2007-05-01","dg-note-properties":{"date":"2007-05-01","tags":["music"]}}
 ---
 
 

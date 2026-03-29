@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/md-5-vs-sha-1-in-python/","tags":["programming","python"],"created":"2011-08-24"}
+{"dg-publish":true,"permalink":"/md-5-vs-sha-1-in-python/","tags":["programming","python"],"created":"2011-08-24","dg-note-properties":{"date":"2011-08-24","tags":["programming","python"]}}
 ---
 
 

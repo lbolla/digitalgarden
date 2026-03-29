@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/curriculum-vitae/"}
+{"dg-publish":true,"permalink":"/curriculum-vitae/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/time-to-go-home/","tags":["go"],"created":"2011-04-27"}
+{"dg-publish":true,"permalink":"/time-to-go-home/","tags":["go"],"created":"2011-04-27","dg-note-properties":{"date":"2011-04-27","tags":["go"]}}
 ---
 
 

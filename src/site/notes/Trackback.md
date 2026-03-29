@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trackback/","created":"2007-09-10"}
+{"dg-publish":true,"permalink":"/trackback/","created":"2007-09-10","dg-note-properties":{"date":"2007-09-10","tags":null}}
 ---
 
 

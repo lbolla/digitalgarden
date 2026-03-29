@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/goodbye-linode-welcome-aws/","tags":["programming"],"created":"2020-12-11 Fri"}
+{"dg-publish":true,"permalink":"/goodbye-linode-welcome-aws/","tags":["programming"],"created":"2020-12-11 Fri","dg-note-properties":{"date":"2020-12-11 Fri","tags":["programming"]}}
 ---
 
 

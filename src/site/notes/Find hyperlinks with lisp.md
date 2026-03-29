@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/find-hyperlinks-with-lisp/","tags":["programming","lisp"],"created":"2010-10-24"}
+{"dg-publish":true,"permalink":"/find-hyperlinks-with-lisp/","tags":["programming","lisp"],"created":"2010-10-24","dg-note-properties":{"date":"2010-10-24","tags":["programming","lisp"]}}
 ---
 
 

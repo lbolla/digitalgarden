@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/numerical-computing-matlab-vs-python-numpy-weave/","tags":["programming","python"],"created":"2007-04-11"}
+{"dg-publish":true,"permalink":"/numerical-computing-matlab-vs-python-numpy-weave/","tags":["programming","python"],"created":"2007-04-11","dg-note-properties":{"date":"2007-04-11","tags":["programming","python"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-first-post/","created":"2006-04-05"}
+{"dg-publish":true,"permalink":"/my-first-post/","created":"2006-04-05","dg-note-properties":{"date":"2006-04-05"}}
 ---
 
 

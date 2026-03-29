@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lisp-threading-example/","tags":["programming"],"created":"2010-10-23"}
+{"dg-publish":true,"permalink":"/lisp-threading-example/","tags":["programming"],"created":"2010-10-23","dg-note-properties":{"date":"2010-10-23","tags":["programming"]}}
 ---
 
 

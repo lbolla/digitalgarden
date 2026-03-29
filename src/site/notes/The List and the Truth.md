@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-list-and-the-truth/","created":"2009-09-13"}
+{"dg-publish":true,"permalink":"/the-list-and-the-truth/","created":"2009-09-13","dg-note-properties":{"date":"2009-09-13"}}
 ---
 
 

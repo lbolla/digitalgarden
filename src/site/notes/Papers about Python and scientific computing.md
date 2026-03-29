@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers-about-python-and-scientific-computing/","tags":["python","javascript"],"created":"2007-04-25"}
+{"dg-publish":true,"permalink":"/papers-about-python-and-scientific-computing/","tags":["python","javascript"],"created":"2007-04-25","dg-note-properties":{"date":"2007-04-25","tags":["python","javascript"]}}
 ---
 
 

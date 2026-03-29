@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/http-client-in-haskell/","tags":["programming","haskell"],"created":"2011-09-26"}
+{"dg-publish":true,"permalink":"/http-client-in-haskell/","tags":["programming","haskell"],"created":"2011-09-26","dg-note-properties":{"date":"2011-09-26","tags":["programming","haskell"]}}
 ---
 
 

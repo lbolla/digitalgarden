@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/unshare-me/","tags":["programming","go"],"created":"2012-12-12"}
+{"dg-publish":true,"permalink":"/unshare-me/","tags":["programming","go"],"created":"2012-12-12","dg-note-properties":{"date":"2012-12-12","tags":["programming","go"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mondiali-di-calcio-2006/","tags":["italiano"],"created":"2006-06-26"}
+{"dg-publish":true,"permalink":"/mondiali-di-calcio-2006/","tags":["italiano"],"created":"2006-06-26","dg-note-properties":{"date":"2006-06-26","tags":["italiano"]}}
 ---
 
 

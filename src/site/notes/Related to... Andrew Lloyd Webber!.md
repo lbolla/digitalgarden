@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/related-to-andrew-lloyd-webber/","tags":["programming"],"created":"2011-04-12"}
+{"dg-publish":true,"permalink":"/related-to-andrew-lloyd-webber/","tags":["programming"],"created":"2011-04-12","dg-note-properties":{"date":"2011-04-12","tags":["programming"]}}
 ---
 
 

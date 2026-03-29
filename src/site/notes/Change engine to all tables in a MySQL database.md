@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/change-engine-to-all-tables-in-a-my-sql-database/","created":"2012-04-05"}
+{"dg-publish":true,"permalink":"/change-engine-to-all-tables-in-a-my-sql-database/","created":"2012-04-05","dg-note-properties":{"date":"2012-04-05"}}
 ---
 
 

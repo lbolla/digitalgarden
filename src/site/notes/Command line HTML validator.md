@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/command-line-html-validator/","created":"2009-01-30"}
+{"dg-publish":true,"permalink":"/command-line-html-validator/","created":"2009-01-30","dg-note-properties":{"date":"2009-01-30"}}
 ---
 
 

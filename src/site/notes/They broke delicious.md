@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/they-broke-delicious/","tags":["programming","javascript"],"created":"2011-09-30"}
+{"dg-publish":true,"permalink":"/they-broke-delicious/","tags":["programming","javascript"],"created":"2011-09-30","dg-note-properties":{"date":"2011-09-30","tags":["programming","javascript"]}}
 ---
 
 

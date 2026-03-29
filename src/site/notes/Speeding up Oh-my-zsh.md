@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/speeding-up-oh-my-zsh/","tags":["programming"],"created":"2018-05-20 Sun"}
+{"dg-publish":true,"permalink":"/speeding-up-oh-my-zsh/","tags":["programming"],"created":"2018-05-20 Sun","dg-note-properties":{"date":"2018-05-20 Sun","tags":["programming"]}}
 ---
 
 

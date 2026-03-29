@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editors-speed-on-opening-big-files/","tags":["programming"],"created":"2010-05-17"}
+{"dg-publish":true,"permalink":"/editors-speed-on-opening-big-files/","tags":["programming"],"created":"2010-05-17","dg-note-properties":{"date":"2010-05-17","tags":["programming"]}}
 ---
 
 

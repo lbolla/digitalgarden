@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/autocomplete-paver-with-zsh/","created":"2014-09-14"}
+{"dg-publish":true,"permalink":"/autocomplete-paver-with-zsh/","created":"2014-09-14","dg-note-properties":{"date":"2014-09-14"}}
 ---
 
 

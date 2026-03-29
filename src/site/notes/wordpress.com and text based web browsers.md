@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wordpress-com-and-text-based-web-browsers/","created":"2009-01-31"}
+{"dg-publish":true,"permalink":"/wordpress-com-and-text-based-web-browsers/","created":"2009-01-31","dg-note-properties":{"date":"2009-01-31","tags":null}}
 ---
 
 

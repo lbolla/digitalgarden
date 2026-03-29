@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/another-geek-in-denmark/","created":"2006-04-27"}
+{"dg-publish":true,"permalink":"/another-geek-in-denmark/","created":"2006-04-27","dg-note-properties":{"date":"2006-04-27"}}
 ---
 
 

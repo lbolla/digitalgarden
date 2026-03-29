@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ontologisches-beweis/","tags":["programming"],"created":"2006-08-11"}
+{"dg-publish":true,"permalink":"/ontologisches-beweis/","tags":["programming"],"created":"2006-08-11","dg-note-properties":{"date":"2006-08-11","tags":["programming"]}}
 ---
 
 

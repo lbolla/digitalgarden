@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nature/","created":"2006-08-12"}
+{"dg-publish":true,"permalink":"/nature/","created":"2006-08-12","dg-note-properties":{"date":"2006-08-12"}}
 ---
 
 

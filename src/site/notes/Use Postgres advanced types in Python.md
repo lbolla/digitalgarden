@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/use-postgres-advanced-types-in-python/","tags":["python","programming"],"created":"2013-03-06"}
+{"dg-publish":true,"permalink":"/use-postgres-advanced-types-in-python/","tags":["python","programming"],"created":"2013-03-06","dg-note-properties":{"date":"2013-03-06","tags":["python","programming"]}}
 ---
 
 

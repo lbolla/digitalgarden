@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/facile-profeta/","tags":["italiano"],"created":"2007-09-15"}
+{"dg-publish":true,"permalink":"/facile-profeta/","tags":["italiano"],"created":"2007-09-15","dg-note-properties":{"date":"2007-09-15","tags":["italiano"]}}
 ---
 
 

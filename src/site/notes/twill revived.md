@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/twill-revived/","tags":["programming","python"],"created":"2011-03-11"}
+{"dg-publish":true,"permalink":"/twill-revived/","tags":["programming","python"],"created":"2011-03-11","dg-note-properties":{"date":"2011-03-11","tags":["programming","python"]}}
 ---
 
 

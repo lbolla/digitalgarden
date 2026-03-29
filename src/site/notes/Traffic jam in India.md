@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/traffic-jam-in-india/","created":"2006-07-07"}
+{"dg-publish":true,"permalink":"/traffic-jam-in-india/","created":"2006-07-07","dg-note-properties":{"date":"2006-07-07","tags":null}}
 ---
 
 

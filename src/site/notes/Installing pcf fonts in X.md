@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/installing-pcf-fonts-in-x/","tags":["programming"],"created":"2010-01-07"}
+{"dg-publish":true,"permalink":"/installing-pcf-fonts-in-x/","tags":["programming"],"created":"2010-01-07","dg-note-properties":{"date":"2010-01-07","tags":["programming"]}}
 ---
 
 

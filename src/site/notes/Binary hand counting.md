@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/binary-hand-counting/","tags":["italiano"],"created":"2007-04-17"}
+{"dg-publish":true,"permalink":"/binary-hand-counting/","tags":["italiano"],"created":"2007-04-17","dg-note-properties":{"date":"2007-04-17","tags":["italiano"]}}
 ---
 
 

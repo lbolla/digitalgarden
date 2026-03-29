@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sleepsort/","tags":["programming"],"created":"2011-06-17"}
+{"dg-publish":true,"permalink":"/sleepsort/","tags":["programming"],"created":"2011-06-17","dg-note-properties":{"date":"2011-06-17","tags":["programming"]}}
 ---
 
 

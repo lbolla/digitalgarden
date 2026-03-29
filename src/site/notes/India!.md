@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/india/","tags":["programming"],"created":"2008-04-10"}
+{"dg-publish":true,"permalink":"/india/","tags":["programming"],"created":"2008-04-10","dg-note-properties":{"date":"2008-04-10","tags":["programming"]}}
 ---
 
 	

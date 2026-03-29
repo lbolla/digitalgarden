@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cvs-behind-a-firewall-through-an-http-proxy/","created":"2008-04-21"}
+{"dg-publish":true,"permalink":"/cvs-behind-a-firewall-through-an-http-proxy/","created":"2008-04-21","dg-note-properties":{"date":"2008-04-21"}}
 ---
 
 

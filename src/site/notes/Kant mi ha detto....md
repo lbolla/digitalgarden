@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kant-mi-ha-detto/","created":"2006-08-06"}
+{"dg-publish":true,"permalink":"/kant-mi-ha-detto/","created":"2006-08-06","dg-note-properties":{"date":"2006-08-06"}}
 ---
 
 

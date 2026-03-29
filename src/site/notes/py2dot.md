@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/py2dot/","tags":["python"],"created":"2008-10-05"}
+{"dg-publish":true,"permalink":"/py2dot/","tags":["python"],"created":"2008-10-05","dg-note-properties":{"date":"2008-10-05","tags":["python"]}}
 ---
 
 

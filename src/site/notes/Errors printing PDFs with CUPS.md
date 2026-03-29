@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/errors-printing-pd-fs-with-cups/","tags":["linux"],"created":"2012-09-13"}
+{"dg-publish":true,"permalink":"/errors-printing-pd-fs-with-cups/","tags":["linux"],"created":"2012-09-13","dg-note-properties":{"date":"2012-09-13","tags":["linux"]}}
 ---
 
 

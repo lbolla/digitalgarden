@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-ph-d-thesis-on-scribd/","created":"2009-09-10"}
+{"dg-publish":true,"permalink":"/my-ph-d-thesis-on-scribd/","created":"2009-09-10","dg-note-properties":{"date":"2009-09-10","tags":null}}
 ---
 
 

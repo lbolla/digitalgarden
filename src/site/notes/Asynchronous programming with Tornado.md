@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/asynchronous-programming-with-tornado/","tags":["programming","tornado","python"],"created":"2012-10-03"}
+{"dg-publish":true,"permalink":"/asynchronous-programming-with-tornado/","tags":["programming","tornado","python"],"created":"2012-10-03","dg-note-properties":{"date":"2012-10-03","tags":["programming","tornado","python"]}}
 ---
 
 Asynchronous programming can be tricky for beginners, therefore I think it\'s useful to iron some basic concepts to avoid common pitfalls. For an explanation about generic asynchronous programming, I recommend you one of the [many](http://en.wikipedia.org/wiki/Asynchrony) [resources](http://www.cs.brown.edu/courses/cs196-5/f12/handouts/async.pdf) [online](http://krondo.com/?page_id=1327). I will focus solely on asynchronous programming in [Tornado](http://www.tornadoweb.org/documentation/index.html).

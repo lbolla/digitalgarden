@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/missing-dec-0-and-friends-from-python-decimal/","tags":["programming","python"],"created":"2010-07-29"}
+{"dg-publish":true,"permalink":"/missing-dec-0-and-friends-from-python-decimal/","tags":["programming","python"],"created":"2010-07-29","dg-note-properties":{"date":"2010-07-29","tags":["programming","python"]}}
 ---
 
 

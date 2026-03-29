@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wordpress-python-library/","tags":["programming","python"],"created":"2010-06-06"}
+{"dg-publish":true,"permalink":"/wordpress-python-library/","tags":["programming","python"],"created":"2010-06-06","dg-note-properties":{"date":"2010-06-06","tags":["programming","python"]}}
 ---
 
 

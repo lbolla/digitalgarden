@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/backlight-control-on-xps/","created":"2020-12-09"}
+{"dg-publish":true,"permalink":"/backlight-control-on-xps/","created":"2020-12-09","dg-note-properties":{"date":"2020-12-09"}}
 ---
 
 

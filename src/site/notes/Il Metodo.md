@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/il-metodo/","tags":["italiano","programming"],"created":"2007-02-14"}
+{"dg-publish":true,"permalink":"/il-metodo/","tags":["italiano","programming"],"created":"2007-02-14","dg-note-properties":{"date":"2007-02-14","tags":["italiano","programming"]}}
 ---
 
 

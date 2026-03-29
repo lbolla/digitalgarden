@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/die-zombie-die/","tags":["programming","python"],"created":"2014-01-23"}
+{"dg-publish":true,"permalink":"/die-zombie-die/","tags":["programming","python"],"created":"2014-01-23","dg-note-properties":{"date":"2014-01-23","tags":["programming","python"]}}
 ---
 
 

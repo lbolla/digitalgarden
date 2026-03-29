@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/experiments-in-pickling/","tags":["programming","python"],"created":"2014-05-14"}
+{"dg-publish":true,"permalink":"/experiments-in-pickling/","tags":["programming","python"],"created":"2014-05-14","dg-note-properties":{"date":"2014-05-14","tags":["programming","python"]}}
 ---
 
 

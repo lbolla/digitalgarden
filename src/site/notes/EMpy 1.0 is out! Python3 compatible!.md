@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/e-mpy-1-0-is-out-python3-compatible/","tags":["programming","python"],"created":"2015-04-26"}
+{"dg-publish":true,"permalink":"/e-mpy-1-0-is-out-python3-compatible/","tags":["programming","python"],"created":"2015-04-26","dg-note-properties":{"date":"2015-04-26","tags":["programming","python"]}}
 ---
 
 

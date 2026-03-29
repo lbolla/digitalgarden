@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ulint-universal-lint/","tags":["programming","python","javascript","haskell"],"created":"2012-01-05"}
+{"dg-publish":true,"permalink":"/ulint-universal-lint/","tags":["programming","python","javascript","haskell"],"created":"2012-01-05","dg-note-properties":{"date":"2012-01-05","tags":["programming","python","javascript","haskell"]}}
 ---
 
 

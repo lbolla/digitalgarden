@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blocking-tasks-in-tornado/","tags":["programming","tornado","python"],"created":"2013-01-22"}
+{"dg-publish":true,"permalink":"/blocking-tasks-in-tornado/","tags":["programming","tornado","python"],"created":"2013-01-22","dg-note-properties":{"date":"2013-01-22","tags":["programming","tornado","python"]}}
 ---
 
 

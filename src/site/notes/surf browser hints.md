@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/surf-browser-hints/","tags":["programming"],"created":"2009-08-24"}
+{"dg-publish":true,"permalink":"/surf-browser-hints/","tags":["programming"],"created":"2009-08-24","dg-note-properties":{"date":"2009-08-24","tags":["programming"]}}
 ---
 
 

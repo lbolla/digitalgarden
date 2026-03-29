@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hsenv/","tags":["programming","python","haskell"],"created":"2012-03-29"}
+{"dg-publish":true,"permalink":"/hsenv/","tags":["programming","python","haskell"],"created":"2012-03-29","dg-note-properties":{"date":"2012-03-29","tags":["programming","python","haskell"]}}
 ---
 
 

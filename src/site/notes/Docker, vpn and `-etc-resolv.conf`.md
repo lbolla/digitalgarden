@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docker-vpn-and-etc-resolv-conf/","created":"2018-06-22"}
+{"dg-publish":true,"permalink":"/docker-vpn-and-etc-resolv-conf/","created":"2018-06-22","dg-note-properties":{"date":"2018-06-22","tags":null}}
 ---
 
 

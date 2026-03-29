@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dwm-restart/","tags":["linux"],"created":"2010-01-08"}
+{"dg-publish":true,"permalink":"/dwm-restart/","tags":["linux"],"created":"2010-01-08","dg-note-properties":{"date":"2010-01-08","tags":["linux"]}}
 ---
 
 

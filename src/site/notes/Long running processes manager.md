@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/long-running-processes-manager/","tags":["programming","python","javascript"],"created":"2014-01-17"}
+{"dg-publish":true,"permalink":"/long-running-processes-manager/","tags":["programming","python","javascript"],"created":"2014-01-17","dg-note-properties":{"date":"2014-01-17","tags":["programming","python","javascript"]}}
 ---
 
 
