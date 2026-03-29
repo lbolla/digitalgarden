@@ -17,10 +17,10 @@ views:
     name: Table
     order:
       - file.name
-      - note.date
-      - note.tags
+      - date
+      - tags
     sort:
-      - property: note.date
+      - property: date
         direction: DESC
     limit: 5
 
