@@ -3,7 +3,7 @@
 ---
 
 
-![gnod screenshot](/img/user/img/gnod.jpg)
+![gnod screenshot](/img/user/Attachments/gnod.jpg)
 
 Today, I\'ll suggest you a new cool link: <http://www.gnod.net/>. From their website:
 

@@ -5,7 +5,7 @@
 
 Now, [this is embarassing...](http://www.youtube.com/watch?v=wtf) It looks like requesting a non-existent video on YouTube causes a \"500 Internal Server Error\"!
 
-![500 on YouTube](/img/user/img/capture.jpg)
+![500 on YouTube](/img/user/Attachments/capture.jpg)
 
 For example:
 

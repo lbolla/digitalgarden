@@ -3,7 +3,7 @@
 ---
 
 
-![alitalia](/img/user/img/alitalia.jpg)
+![alitalia](/img/user/Attachments/alitalia.jpg)
 
 Questo weekend mi sono accorto di quanto sia messa male [Alitalia](http://www.alitalia.it).
 

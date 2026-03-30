@@ -30,7 +30,7 @@ views:
 This renders correctly in Obsidian, but not in the exported HTML.
 
 Obsidian:
-![Pasted image 20260329184123.png](/img/user/img/Pasted%20image%2020260329184123.png)
+![Pasted image 20260329184123.png](/img/user/Attachments/Pasted%20image%2020260329184123.png)
 HTML:
 ```base
 filters:

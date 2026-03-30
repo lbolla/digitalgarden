@@ -9,4 +9,4 @@ First of all, in order to have similar performance to `grep`, I had to convert m
 
 Here are the results obtained. `grep` is still faster for smallish files (I haven\'t spent too much time tweaking `hsgrep`), but `hsgrep` scales much better and it wins for files larger than few megabytes!
 
-![HSGrep benchmark](/img/user/img/bench1.png)
+![HSGrep benchmark](/img/user/Attachments/bench1.png)
