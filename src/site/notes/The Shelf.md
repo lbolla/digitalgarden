@@ -13,12 +13,13 @@ views:
     order:
       - file.name
       - author
-      - tags
+      - file.tags
       - date
     sort:
       - property: date
         direction: DESC
     image: image
     imageFit: contain
+    imageAspectRatio: 1.4
 
 ```
