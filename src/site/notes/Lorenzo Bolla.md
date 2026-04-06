@@ -11,12 +11,12 @@ When I'm not #programming, I am either #reading or playing #basketball.
 - [[The Shelf\|The Shelf]]
 
 ## Latest notes
-| File                                              | Published      | Tags                                |
-| ------------------------------------------------- | -------------- | ----------------------------------- |
-| [[Books/Crystal Mentality\|Crystal Mentality]] | March 29, 2026 | #AI #reading                        |
-| [[The Shelf\|The Shelf]]                       | March 29, 2026 |                                     |
-| [[Books/Crystal Society\|Crystal Society]]     | March 28, 2026 | #AI                                 |
-| [[Digital Garden\|Digital Garden]]             | March 28, 2026 | #obsidian #pkm #programming #python |
-| [[Netlify\|Netlify]]                           | March 28, 2026 |                                     |
+| File                                                    | Published      | Tags               |
+| ------------------------------------------------------- | -------------- | ------------------ |
+| [[Sixtyseven is a bitch\|Sixtyseven is a bitch]]     | April 04, 2026 | #meme              |
+| [[Books/Ulisse\|Ulisse]]                             | April 04, 2026 | #italiano #reading |
+| [[Books/Understanding Media\|Understanding Media]]   | April 04, 2026 | #AI #media         |
+| [[Books/Ulysses Unbound\|Ulysses Unbound]]           | April 04, 2026 | #reading           |
+| [[Books/Here Comes Everybody\|Here Comes Everybody]] | April 04, 2026 | #reading           |
 
 { .block-language-dataview}
