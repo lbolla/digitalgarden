@@ -1,7 +1,10 @@
 // Put your computations here.
 
 function userComputed(data) {
-  return {};
+  return {
+    properties: data["dg-note-properties"],
+    test: "test",
+  };
 }
 
 exports.userComputed = userComputed;
