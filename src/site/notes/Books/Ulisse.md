@@ -4,7 +4,7 @@
 
 
 [[The Shelf\|The Shelf]]
-| File                        | author      | year |
+| Title                       | Author      | Year |
 | --------------------------- | ----------- | ---- |
 | [[Books/Ulisse\|Ulisse]] | James Joyce | 2026 |
 

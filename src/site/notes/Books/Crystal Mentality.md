@@ -4,7 +4,7 @@
 
 
 [[The Shelf\|The Shelf]]
-| File                                              | author    | year |
+| Title                                             | Author    | Year |
 | ------------------------------------------------- | --------- | ---- |
 | [[Books/Crystal Mentality\|Crystal Mentality]] | Max Harms | 2017 |
 

@@ -4,7 +4,7 @@
 
 
 [[The Shelf\|The Shelf]]
-| File                                                  | author           | year |
+| Title                                                 | Author           | Year |
 | ----------------------------------------------------- | ---------------- | ---- |
 | [[Books/Understanding Media\|Understanding Media]] | Marshall McLuhan | 1994 |
 

@@ -3,7 +3,7 @@
 ---
 
 [[The Shelf\|The Shelf]]
-| File                          | author      | year |
+| Title                         | Author      | Year |
 | ----------------------------- | ----------- | ---- |
 | [[Books/Ulysses\|Ulysses]] | James Joyce | 1922 |
 
