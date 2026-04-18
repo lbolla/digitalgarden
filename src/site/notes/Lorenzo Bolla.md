@@ -3,11 +3,11 @@
 ---
 
 
-Hi! I'm Lorenzo Bolla, [[Musings/Curriculum Vitae\|Software Developer]] in Zűrich, CH.
+Hi! I'm Lorenzo Bolla, [[Curriculum Vitae\|Software Developer]] in Zűrich, CH.
 
 When I'm not #programming, I am either #reading or playing #basketball.
 
-- [[Musings/Curriculum Vitae\|Curriculum Vitae]] 
+- [[Curriculum Vitae\|Curriculum Vitae]] 
 - [[Reading/The Shelf\|The Shelf]]
 - [Random Note](/~random)
 
