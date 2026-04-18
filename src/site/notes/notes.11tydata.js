@@ -1,6 +1,5 @@
 require("dotenv").config();
 const settings = require("../../helpers/constants");
-const { userComputed } = require("../_data/eleventyComputed");
 
 const allSettings = settings.ALL_NOTE_SETTINGS;
 
@@ -39,6 +38,5 @@ module.exports = {
       });
       return noteSettings;
     },
-    userComputed: (data) => userComputed(data),
   },
 };
