@@ -9,6 +9,7 @@ When I'm not #programming, I am either #reading or playing #basketball.
 
 - [[Curriculum Vitae\|Curriculum Vitae]] 
 - [[The Shelf\|The Shelf]]
+- [Random Note](/~random)
 
 ## Latest notes
 | File                                                    | Published      | Tags               |
