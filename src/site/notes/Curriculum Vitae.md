@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/curriculum-vitae/","pinned":true,"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/curriculum-vitae/","pinned":true,"dgShowLocalGraph":"false","dgShowToc":"false","dg-note-properties":{}}
 ---
 
 
-[EMail](mailto:contact@lbolla.info) \| [GitHub](https://github.com/lbolla/) \| [StackOverflow](https://stackoverflow.com/users/1063605/lbolla) \| [LinkedIn](https://www.linkedin.com/in/lorenzobolla) \| [Website](https://lbolla.info)
+[EMail](mailto:contact@lbolla.info) | [GitHub](https://github.com/lbolla/) | [StackOverflow](https://stackoverflow.com/users/1063605/lbolla) | [LinkedIn](https://www.linkedin.com/in/lorenzobolla) | [Website](https://lbolla.info)
 
 # Profile
 
