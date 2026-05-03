@@ -12,12 +12,12 @@ When I'm not #programming, I am either #reading or playing #basketball.
 - [Random Note](/~random)
 
 ## Latest notes
-| File                                                            | Published      | Tags               |
-| --------------------------------------------------------------- | -------------- | ------------------ |
-| [[Reading/Books/Understanding Media\|Understanding Media]]   | April 04, 2026 | #AI #media         |
-| [[Reading/Books/Ulysses Unbound\|Ulysses Unbound]]           | April 04, 2026 | #reading           |
-| [[Reading/Books/Ulisse\|Ulisse]]                             | April 04, 2026 | #italiano #reading |
-| [[Reading/Books/Here Comes Everybody\|Here Comes Everybody]] | April 04, 2026 | #reading           |
-| [[Musings/Sixtyseven is a bitch\|Sixtyseven is a bitch]]     | April 04, 2026 | #meme              |
+| File                                                          | Published      | Tags               |
+| ------------------------------------------------------------- | -------------- | ------------------ |
+| [[Reading/Books/The Handmaid's Tale\|The Handmaid's Tale]] | May 02, 2026   | #reading           |
+| [[Musings/Pigeons in a cage\|Pigeons in a cage]]           | May 02, 2026   |                    |
+| [[Reading/Books/Understanding Media\|Understanding Media]] | April 04, 2026 | #AI #media         |
+| [[Reading/Books/Ulysses Unbound\|Ulysses Unbound]]         | April 04, 2026 | #reading           |
+| [[Reading/Books/Ulisse\|Ulisse]]                           | April 04, 2026 | #italiano #reading |
 
 { .block-language-dataview}
