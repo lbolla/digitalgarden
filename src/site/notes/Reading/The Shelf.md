@@ -5,8 +5,9 @@
 
 ```base
 filters:
-  and:
+  or:
     - file.folder == "Reading/Books"
+    - file.folder == "Reading/Articles"
 views:
   - type: cards
     name: Cards
@@ -21,5 +22,4 @@ views:
     image: image
     imageFit: contain
     imageAspectRatio: 1.4
-
 ```
