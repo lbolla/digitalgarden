@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/articles/the-abstraction-fallacy/","tags":["AI"],"created":"2026-05-08","dg-note-properties":{"date":"2026-05-08","author":"Alexander Lerchner","publication-date":"2026-03-19","tags":["AI"],"url":"https://deepmind.google/research/publications/231971/"}}
+{"dg-publish":true,"permalink":"/reading/articles/the-abstraction-fallacy/","tags":["AI","philosophy"],"created":"2026-05-08","dg-note-properties":{"date":"2026-05-08","author":"Alexander Lerchner","publication-date":"2026-03-19","tags":["AI","philosophy"],"url":"https://deepmind.google/research/publications/231971/"}}
 ---
 
 

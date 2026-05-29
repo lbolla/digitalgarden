@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/books/ulysses/","tags":["reading"],"created":"2026-04-03","dg-note-properties":{"date":"2026-04-03","author":"James Joyce","year":"1922","tags":["reading"],"image":"https://upload.wikimedia.org/wikipedia/commons/a/ab/JoyceUlysses2.jpg","url":"https://en.wikipedia.org/wiki/Ulysses_(novel)"}}
+{"dg-publish":true,"permalink":"/reading/books/ulysses/","created":"2026-04-03","dg-note-properties":{"date":"2026-04-03","author":"James Joyce","year":"1922","tags":null,"image":"https://upload.wikimedia.org/wikipedia/commons/a/ab/JoyceUlysses2.jpg","url":"https://en.wikipedia.org/wiki/Ulysses_(novel)"}}
 ---
 
 [[Reading/The Shelf\|The Shelf]]
