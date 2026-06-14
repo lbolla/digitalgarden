@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/books/here-comes-everybody/","tags":["reading"],"created":"2026-04-04","dg-note-properties":{"date":"2026-04-04","author":"Antony Burgess","year":"2019","tags":["reading"],"image":"https://m.media-amazon.com/images/I/71TqnpKg7yL._SL1500_.jpg","url":null}}
+{"dg-publish":true,"permalink":"/reading/books/here-comes-everybody/","created":"2026-04-04","dg-note-properties":{"date":"2026-04-04","author":"Antony Burgess","year":"2019","tags":null,"image":"https://m.media-amazon.com/images/I/71TqnpKg7yL._SL1500_.jpg","url":null}}
 ---
 
 

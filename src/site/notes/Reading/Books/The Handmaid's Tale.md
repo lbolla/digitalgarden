@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading/books/the-handmaid-s-tale/","tags":["reading"],"created":"2026-05-02","dg-note-properties":{"date":"2026-05-02","author":"Margaret Atwood","year":"1996","tags":["reading"],"image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651677426i/50885244.jpg","url":null}}
+{"dg-publish":true,"permalink":"/reading/books/the-handmaid-s-tale/","created":"2026-05-02","dg-note-properties":{"date":"2026-05-02","author":"Margaret Atwood","year":"1996","tags":null,"image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651677426i/50885244.jpg","url":null}}
 ---
 
 
